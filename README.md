@@ -23,4 +23,4 @@ To get started with the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-project-name.git
+   git clone https://github.com/vaishnaviakre/new.git
